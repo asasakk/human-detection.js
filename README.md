@@ -1,0 +1,2 @@
+Hack U kosenにて作成したプログラムの一部を備忘録として作成
+Tensorflow.jsを使用。モデルはcocoSSD
